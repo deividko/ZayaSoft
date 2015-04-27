@@ -1,4 +1,7 @@
 
 public class MODULO1 {
-	System.out.Println("hola");
+	public static void main(String[] args) {
+	
+	System.out.println("hola");
+	}
 }
