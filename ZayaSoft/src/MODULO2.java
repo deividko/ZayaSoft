@@ -6,6 +6,7 @@ public class MODULO2 {
 		int suma=1+1;
 		int resta=5-3;
 		int multiplicacion=5*6;
+		int division=8/9;
 	}
 
 }
